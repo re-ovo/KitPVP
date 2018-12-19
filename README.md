@@ -1,6 +1,7 @@
 # KitPVP<br>
 本kitpvp原本是为kinus.cc服务器编写的，现在将其开源
-使用本工程请遵守GPLv2开源协议
+使用本工程请遵守GPLv2开源协议   
+>如果喜欢，记得点个star哦
 
 # Features / 功能<br>
 * Advanced Scoreboard / 优秀的计分板
