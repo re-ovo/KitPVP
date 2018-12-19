@@ -21,10 +21,10 @@ License: GPLv2
 
 # 使用教程<br>
 ## 如何创建竞技场?<br>
->首先: 需要设置总出生点 /kitpvp setlobby<br>
-1./kitpvp create <竞技场名字> - 创建一个竞技场
-2./kitpvp setloc <竞技场名字> <位置> - 设置竞技场的各个点(spawn=出生点,pro1=保护区域A点,pro2=保护区域B点,loc1=竞技场边角A点,loc2=竞技场边角B点  这里的AB点类似于圈地的2点)
-3./kitpvp save - 保存
+>首先: 需要设置总出生点 /kitpvp setlobby   
+1./kitpvp create <竞技场名字> - 创建一个竞技场   
+2./kitpvp setloc <竞技场名字> <位置> - 设置竞技场的各个点(spawn=出生点,pro1=保护区域A点,pro2=保护区域B点,loc1=竞技场边角A点,loc2=竞技场边角B点  这里的AB点类似于圈地的2点)   
+3./kitpvp save - 保存   
 
 # 下载<br>
 如果你不是开发者，你不会编译本插件，但是你也想使用本插件
