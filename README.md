@@ -28,7 +28,7 @@ License: GPLv2
 
 # 下载<br>
 如果你不是开发者，你不会编译本插件，但是你也想使用本插件
-你可以前往 Release 页面下载本插件
+你可以前往 Release(https://github.com/jiangdashao/KitPVP/releases) 页面下载本插件
 
 注: 禁止将本插件用于任何商业用途
 
