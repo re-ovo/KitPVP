@@ -1,0 +1,50 @@
+##########################################################################################
+#
+#
+#                                       KitPVP
+#
+#                            Code by RE | Kinus PVP Network
+#                                       kinus.cc
+#
+###########################################################################################
+
+# Install Mode
+install: true
+
+# Database Setting
+database:
+  # Database URL
+  url: '127.0.0.1'
+  # Database Name
+  name: kinus
+  # Database username
+  user: root
+  # Password
+  password: 'Kinus123123123@'
+
+# ScoreBoard Setting
+scoreboard:
+  wait:
+    title: '&cKin&fus &7| &fKitPVP'
+    lines:
+      - ''
+      - 'Kills: &c%kills%'
+      - 'Deaths: &c%deaths%'
+      - 'K/D: &c%kd%'
+      - ''
+      - 'Star: &c%star%'
+      - 'Kit: &c%kit%'
+      - ''
+      - '&cKin&fus.cc &c# &f2018'
+  fight:
+    title: '&cKin&fus &7| &fKitPVP'
+    lines:
+      - ''
+      - 'Kills: &c%kills%'
+      - 'Deaths: &c%deaths%'
+      - 'K/D: &c%kd%'
+      - ''
+      - 'Kit: &c%kit%'
+      - 'Streak: &c%streak%'
+      - ''
+      - '&cKin&fus.cc &c# &f2018'

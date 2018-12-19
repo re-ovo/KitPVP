@@ -1,0 +1,10 @@
+name: KitPVP
+version: ${project.version}
+main: cc.kinus.kitpvp.KitPVP
+depend: [ProtocolLib]
+authors: [RE]
+description: A kitpvp plugin for Kinus Network
+commands:
+  kitpvp:
+    description: KitPVP Plugin Commands
+    usage: /kitpvp <params>
