@@ -17,7 +17,6 @@ import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.bukkit.scoreboard.ScoreboardManager;
 
 public final class KitPVP extends JavaPlugin {
     private static KitPVP instance;
@@ -62,7 +61,8 @@ public final class KitPVP extends JavaPlugin {
 
         this.scoreboardManager = new ScoreBoardManager();
 
-        // 注册监听器
+        // 注册监
+        // 听器
         this.registerListeners();
 
         Bukkit.getPluginCommand("kitpvp").setExecutor(new KitpvpCommand());
